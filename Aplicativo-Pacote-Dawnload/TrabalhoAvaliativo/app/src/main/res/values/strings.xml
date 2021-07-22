@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TrabalhoAvaliativo</string>
+    <string name="tvTitulo">Clinica e servicos gerais</string>
+    <string name="tvTitulo2">Cadastro</string>
+    <string name="etNome">Nome:</string>
+    <string name="etIdade">Idade:</string>
+    <string name="etDadaNasc">dd/mm/aa</string>
+    <string name="etHora">00:00</string>
+    <string name="rbClinicoGeral">Clínico Geral</string>
+    <string name="rbPediatra">Pediatra</string>
+    <string name="rbGeriatra">Geriatra</string>
+    <string name="btNovoCadastro">Limpar</string>
+    <string name="btCadastro">Cadastrar</string>
+    <string name="etDia">dia</string>
+    <string name="etEspecialidades">Especialidades</string>
+    <string name="tvTitulo3">Home</string>
+    <string name="btNovaConsulta">Realizar Consulta</string>
+    <string name="btMeusAgendamentos">Meus Agendamentos</string>
+    <string name="tvMostrarDados">Permissões</string>
+    <string name="menu_home">Home</string>
+    <string name="menuCamera" >Camera</string>
+    <string name="menuWeb">Internet</string>
+    <string name="menuDiscador">Discador</string>
+    <string name="etTelefone">Type Phone</string>
+    <string name="btDiscar">Discar</string>
+    <string name="tvWeb">Acessar Web</string>
+    <string name="etWeb">Type URL</string>
+    <string name="btWeb">buscar</string>
+    <string name="brCamera">Camera</string>
+    <string name="btCamera">Camera</string>
+</resources>
